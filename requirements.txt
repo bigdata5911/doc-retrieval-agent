@@ -10,3 +10,6 @@ pandas
 sse-starlette
 faiss-cpu
 sqlalchemy
+streamlit 
+sseclient 
+requests
