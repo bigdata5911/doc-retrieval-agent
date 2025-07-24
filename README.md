@@ -2,15 +2,17 @@
 
 This app is an offline AI chatbot that answers queries from:
 
-- A folder of 5 .txt FAQ documents
-- A .csv file of monthly sales (columns: Date, Product, Sales)
+- A folder of 5 .txt FAQ documents (for FAQ search)
+- A .csv file of monthly sales (columns: Date, Product, Sales; for sales analytics)
 
 ## Features
 
-- LangChain agent with Supervisor for tool routing
-- FAQ search and sales data Q&A
+- LangChain agent with Supervisor for tool routing (FAQ and sales)
+- FAQ search using OpenAI embeddings and vector search
+- Sales data Q&A using SQL over a SQLite database (automatically loaded from CSV)
 - FastAPI backend with streaming responses (SSE)
-- Uses OpenAI API for LLM (set your OPENAI_API_KEY)
+- Uses OpenAI API for both LLM and embeddings (set your OPENAI_API_KEY)
+- All test files are in the `test/` directory
 
 ## Setup
 
@@ -18,7 +20,7 @@ This app is an offline AI chatbot that answers queries from:
    ```bash
    pip install -r requirements.txt
    ```
-2. Set your OpenAI API key in your environment:
+2. Set your OpenAI API key in your environment or add it into env file:
    ```bash
    export OPENAI_API_KEY=sk-...
    ```
@@ -32,6 +34,19 @@ This app is an offline AI chatbot that answers queries from:
 ## Usage
 
 - Send POST requests to `/chat` with `{ "message": "your question" }`.
-- Responses are streamed back as text chunks.
+- Responses are streamed back as text chunks (SSE).
+- The agent will automatically route questions to the FAQ or sales SQL agent as appropriate.
+
+## Testing
+
+- All test files are in the `test/` directory.
+- To run a test manually:
+  ```bash
+  python test/test_faq_agent.py
+  python test/test_sales_agent.py
+  python test/test_faq_tool.py
+  python test/test_fastapi_chat.py
+  ```
+- The FastAPI chat endpoint can be tested with `test/test_fastapi_chat.py` (streams SSE responses).
 
 ---
