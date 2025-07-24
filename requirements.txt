@@ -1,0 +1,12 @@
+fastapi
+uvicorn
+langchain
+langgraph-supervisor
+langchain-community
+langchain-openai
+openai 
+python-dotenv
+pandas
+sse-starlette
+faiss-cpu
+sqlalchemy
