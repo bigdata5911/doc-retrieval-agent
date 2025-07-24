@@ -1,0 +1,96 @@
+Q: How long does shipping take?
+A: Shipping usually takes 3-5 business days.
+Q: Do you offer express shipping?
+A: Yes, express shipping is available for an additional fee.
+Q: Can I change my shipping address after placing an order?
+A: You can change your shipping address before the order is shipped.
+Q: What shipping carriers do you use?
+A: We use UPS, FedEx, and USPS for deliveries.
+Q: Is international shipping available?
+A: Yes, we ship to most countries worldwide.
+Q: How can I track my shipment?
+A: A tracking link will be sent to your email once your order ships.
+Q: Are there shipping fees?
+A: Standard shipping is free for orders over $50; otherwise, fees apply.
+Q: Can I schedule a delivery date?
+A: Scheduled delivery is available for select items at checkout.
+Q: What if my package is lost?
+A: Contact customer support if your package is lost in transit.
+Q: Do you ship to PO boxes?
+A: Yes, we ship to PO boxes via USPS.
+Q: How do I qualify for free shipping?
+A: Orders over $50 qualify for free standard shipping.
+Q: Can I pick up my order in-store?
+A: In-store pickup is available at select locations.
+Q: What if my package is delayed?
+A: Delays may occur due to weather or carrier issues; check your tracking link.
+Q: Do you ship on weekends?
+A: Orders are processed on business days; weekend delivery depends on the carrier.
+Q: Can I request signature on delivery?
+A: Signature on delivery is available for high-value orders.
+Q: How do I update my shipping preferences?
+A: Update your preferences in your account settings.
+Q: What if my order is returned to sender?
+A: Contact support to arrange reshipment or a refund.
+Q: Do you offer same-day shipping?
+A: Same-day shipping is available for select products in certain areas.
+Q: Can I split my order into multiple shipments?
+A: Yes, you can request split shipments at checkout.
+Q: What if I receive the wrong item?
+A: Contact support for a replacement and return instructions.
+Q: Are shipping times guaranteed?
+A: Shipping times are estimates and not guaranteed unless specified.
+Q: How do I change my delivery instructions?
+A: Add or update delivery instructions in your account or with the carrier.
+Q: Can I ship to multiple addresses?
+A: Multiple shipping addresses can be added during checkout.
+Q: What if my package is damaged?
+A: Report damaged packages to support within 48 hours of delivery.
+Q: Do you ship to military addresses?
+A: Yes, we ship to APO and FPO addresses.
+Q: How do I expedite my shipping?
+A: Select an expedited shipping option at checkout.
+Q: Can I ship to a hotel or temporary address?
+A: Yes, but please notify the front desk or recipient.
+Q: What if my tracking number is not working?
+A: Tracking numbers may take 24 hours to activate; contact support if issues persist.
+Q: Do you offer weekend delivery?
+A: Weekend delivery is available in select areas for an extra fee.
+Q: How do I request a shipping quote?
+A: Shipping quotes are provided at checkout based on your address.
+Q: Can I ship large or oversized items?
+A: Yes, but additional fees and delivery times may apply.
+Q: What if my order is missing items?
+A: Contact support to resolve missing item issues.
+Q: Do you offer eco-friendly shipping options?
+A: Yes, select eco-friendly shipping at checkout if available.
+Q: How do I change my shipping speed after ordering?
+A: Contact support before your order ships to change shipping speed.
+Q: Can I ship to a different country?
+A: Yes, international shipping is available to most countries.
+Q: What if my package is stolen?
+A: File a claim with the carrier and contact support for assistance.
+Q: Do you ship during holidays?
+A: Shipping schedules may vary during holidays; check our website for updates.
+Q: How do I cancel a shipment?
+A: Contact support as soon as possible to cancel a shipment.
+Q: Can I ship fragile items?
+A: Yes, fragile items are packed with extra care.
+Q: What if my package is delivered to the wrong address?
+A: Contact support immediately to resolve delivery issues.
+Q: Do you offer curbside delivery?
+A: Curbside delivery is available for large items in select areas.
+Q: How do I request a delivery window?
+A: Delivery windows can be requested for select carriers at checkout.
+Q: Can I ship to a business address?
+A: Yes, business addresses are accepted for shipping.
+Q: What if my order is delayed by customs?
+A: Customs delays are outside our control; check your tracking for updates.
+Q: Do you offer white-glove delivery?
+A: White-glove delivery is available for premium products.
+Q: How do I report a shipping issue?
+A: Report shipping issues to support via email or phone.
+Q: Can I ship perishable items?
+A: Perishable items are shipped with expedited service and cold packs.
+Q: What if I have more questions about shipping?
+A: Contact customer support for further assistance. 

@@ -1,0 +1,96 @@
+Q: How can I track my order?
+A: You can track your order using the tracking link sent to your email after shipping.
+Q: When will I receive my tracking number?
+A: Tracking numbers are sent via email once your order ships.
+Q: Can I track my order on your website?
+A: Yes, log in to your account to view tracking information.
+Q: What if my tracking number is not working?
+A: Tracking numbers may take 24 hours to activate.
+Q: How do I track a lost package?
+A: Contact support for assistance with lost packages.
+Q: Can I track multiple orders at once?
+A: Yes, all your orders are listed in your account dashboard.
+Q: What if my order shows as delivered but I didn't receive it?
+A: Check with neighbors or contact support for help.
+Q: How do I track an international order?
+A: International orders can be tracked with the provided link.
+Q: Can I get SMS updates for tracking?
+A: SMS tracking updates are available for registered users.
+Q: What if my tracking link is broken?
+A: Contact support for a new tracking link.
+Q: How do I track a return shipment?
+A: Return tracking is available in your account.
+Q: Can I track a gift order?
+A: Gift orders can be tracked by the purchaser.
+Q: What if my order is delayed in transit?
+A: Delays may occur; check your tracking for updates.
+Q: How do I track a backordered item?
+A: Backordered items are tracked once shipped.
+Q: Can I track my order with the carrier directly?
+A: Yes, use the tracking number on the carrier's website.
+Q: What if my tracking info hasn't updated?
+A: Tracking updates may be delayed; check again later.
+Q: How do I track a same-day delivery?
+A: Same-day deliveries include real-time tracking links.
+Q: Can I track my order if I checked out as a guest?
+A: Yes, use the tracking link sent to your email.
+Q: What if I lost my tracking number?
+A: Retrieve it from your account or contact support.
+Q: How do I track a large or oversized order?
+A: Oversized orders have special tracking links.
+Q: Can I track my order if I moved?
+A: Update your address in your account for accurate tracking.
+Q: What if my order is stuck in customs?
+A: Customs delays are shown in your tracking updates.
+Q: How do I track a subscription order?
+A: Subscription orders are tracked like regular orders.
+Q: Can I track my order on my phone?
+A: Yes, tracking links are mobile-friendly.
+Q: What if my order is missing tracking info?
+A: Contact support to obtain tracking details.
+Q: How do I track a replacement order?
+A: Replacement orders have separate tracking numbers.
+Q: Can I track my order if I used a guest checkout?
+A: Yes, tracking is sent to your email.
+Q: What if my order is delayed by weather?
+A: Weather delays are reflected in tracking updates.
+Q: How do I track a pre-order?
+A: Pre-orders are tracked once shipped.
+Q: Can I track my order with a mobile app?
+A: Yes, use our app for tracking updates.
+Q: What if my tracking shows delivered but I can't find my package?
+A: Contact support for assistance with lost packages.
+Q: How do I track an order shipped to a different address?
+A: Tracking is sent to the shipping address email.
+Q: Can I track my order if I paid with a gift card?
+A: Yes, tracking is provided regardless of payment method.
+Q: What if my tracking info is incorrect?
+A: Contact support to correct tracking information.
+Q: How do I track a bulk order?
+A: Bulk orders have special tracking links in your account.
+Q: Can I track my order if I used a promo code?
+A: Yes, tracking is provided for all orders.
+Q: What if my order is delayed by the carrier?
+A: Carrier delays are shown in tracking updates.
+Q: How do I track an order shipped internationally?
+A: Use the international tracking link provided.
+Q: Can I track my order if I used store credit?
+A: Yes, tracking is provided for all payment types.
+Q: What if my order is returned to sender?
+A: Returned orders are tracked back to our warehouse.
+Q: How do I track a custom order?
+A: Custom orders have unique tracking numbers.
+Q: Can I track my order if I used a student discount?
+A: Yes, tracking is provided for all discounts.
+Q: What if my order is delayed by customs?
+A: Customs delays are shown in tracking updates.
+Q: How do I track an order shipped as a gift?
+A: Gift orders are tracked by the purchaser.
+Q: Can I track my order if I used loyalty points?
+A: Yes, tracking is provided for all payment types.
+Q: What if my order is delayed during holidays?
+A: Holiday delays are reflected in tracking updates.
+Q: How do I track an order shipped to a business address?
+A: Tracking is sent to the business email on file.
+Q: What if I have more questions about tracking?
+A: Contact customer support for further assistance. 
