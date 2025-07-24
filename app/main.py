@@ -17,7 +17,9 @@ async def chat(request: Request):
         result = supervisor.invoke({
             "messages": [{"role": "user", "content": user_message}]
         })
-        for m in result["messages"]:
-            yield {"data": m.content}
+        yield {"data": result["messages"][-1].content}
+        # for m in result["messages"]:
+        #     print(m)
+        #     yield {"data": m.content}
 
     return EventSourceResponse(event_generator()) 
